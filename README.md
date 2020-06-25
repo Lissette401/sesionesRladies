@@ -31,3 +31,4 @@ Taller a cargo de [Natalia Riquelme](https://twitter.com/NatyRiquelmeS) e [Isido
 
 * [Presentación](https://github.com/rladieschile/taller-introductorio-mayo/blob/master/Buenas-Pr%C3%A1cticas-en-R.pdf)
 * [Video](https://vimeo.com/423436467)
+* [Proyecto en RStudioCloud](https://rstudio.cloud/project/1416777)
